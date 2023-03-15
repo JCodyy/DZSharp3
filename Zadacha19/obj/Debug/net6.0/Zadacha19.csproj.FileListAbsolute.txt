@@ -1,0 +1,15 @@
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/bin/Debug/net6.0/Zadacha19
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/bin/Debug/net6.0/Zadacha19.deps.json
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/bin/Debug/net6.0/Zadacha19.runtimeconfig.json
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/bin/Debug/net6.0/Zadacha19.dll
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/bin/Debug/net6.0/ref/Zadacha19.dll
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/bin/Debug/net6.0/Zadacha19.pdb
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/Zadacha19.csproj.AssemblyReference.cache
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/Zadacha19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/Zadacha19.AssemblyInfoInputs.cache
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/Zadacha19.AssemblyInfo.cs
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/Zadacha19.csproj.CoreCompileInputs.cache
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/Zadacha19.dll
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/ref/Zadacha19.dll
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/Zadacha19.pdb
+/Users/nikitamishunin/Desktop/DZC#3/Zadacha19/obj/Debug/net6.0/Zadacha19.genruntimeconfig.cache
